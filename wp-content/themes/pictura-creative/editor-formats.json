@@ -1,0 +1,72 @@
+[
+    {
+        "title": "Title Class",
+        "type": "group"
+    },
+    {
+        "title": "Title Lg",
+        "type": "item",
+        "selector": "*",
+        "classes": "t1"
+    },
+    {
+        "title": "Title Md",
+        "type": "item",
+        "selector": "*",
+        "classes": "t2"
+    },
+    {
+        "title": "Subtitle Lg",
+        "type": "item",
+        "selector": "*",
+        "classes": "st1"
+    },
+    {
+        "title": "Subtitle Md",
+        "type": "item",
+        "selector": "*",
+        "classes": "st3"
+    },
+    {
+        "title": "Subtitle Lg Ringtown",
+        "type": "item",
+        "selector": "*",
+        "classes": "st1-rt"
+    },
+    {
+        "title": "Subtitle Md Ringtown",
+        "type": "item",
+        "selector": "*",
+        "classes": "st2-rt"
+    },
+    {
+        "title": "Subtitle Sm Ringtown",
+        "type": "item",
+        "selector": "*",
+        "classes": "st3-rt"
+    },
+    {
+        "title": "Para Large",
+        "type": "item",
+        "selector": "*",
+        "classes": "p-lg"
+    },
+    {
+        "title": "Para Medium",
+        "type": "item",
+        "selector": "*",
+        "classes": "p-md"
+    },
+    {
+        "title": "Para Standard",
+        "type": "item",
+        "selector": "*",
+        "classes": "p-st"
+    },
+    {
+        "title": "Para Small",
+        "type": "item",
+        "selector": "*",
+        "classes": "p-sm"
+    }
+]

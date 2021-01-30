@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="16px" viewBox="0 0 20 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Settings@2x</title>
+    <g id="2.-HOME-DESIGNS*" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.0-Home-Designs-Filters-Mobile" transform="translate(-82.000000, -836.000000)">
+            <g id="Button/Sqr/Sml/Solid/Primary1-Copy-4" transform="translate(15.000000, 824.000000)">
+                <g id="Group-9" transform="translate(67.000000, 11.000000)">
+                    <g id="Settings" transform="translate(9.500000, 9.000000) rotate(90.000000) translate(-9.500000, -9.000000) translate(2.000000, 0.000000)">
+                        <g id="Group-3-Copy" transform="translate(0.000000, 0.344939)">
+                            <line x1="2.20049165" y1="16.5044131" x2="2.20049165" y2="0.0853425606" id="Path-10" stroke="#FFFFFF" stroke-width="1.1616" stroke-linecap="round" stroke-linejoin="round"></line>
+                            <circle id="Oval-9" fill="#FFFFFF" cx="2.20049165" cy="11.3833303" r="1.74551085"></circle>
+                        </g>
+                        <g id="Group-3-Copy-3" transform="translate(10.690350, 0.344939)">
+                            <line x1="2.20049165" y1="16.5044131" x2="2.20049165" y2="0.0853425606" id="Path-10" stroke="#FFFFFF" stroke-width="1.1616" stroke-linecap="round" stroke-linejoin="round"></line>
+                            <circle id="Oval-9" fill="#FFFFFF" cx="2.20049165" cy="9.13273035" r="1.74551085"></circle>
+                        </g>
+                        <g id="Group-3-Copy-2" transform="translate(5.345175, 0.344939)">
+                            <line x1="2.20049165" y1="16.5044131" x2="2.20049165" y2="0.0853425606" id="Path-10" stroke="#FFFFFF" stroke-width="1.1616" stroke-linecap="round" stroke-linejoin="round"></line>
+                            <circle id="Oval-9" fill="#FFFFFF" cx="2.20049165" cy="5.75683035" r="1.74551085"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

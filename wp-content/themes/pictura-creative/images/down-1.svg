@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="16px" viewBox="0 0 28 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon/Arrow/Up@2x</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.607843 0 0 0 0 0.560784 0 0 0 0 0.388235 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="5.-GETTING-STARTED*" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="5.4-FAQ" transform="translate(-1362.000000, -1236.000000)">
+            <g id="Group-10" transform="translate(60.000000, 800.000000)">
+                <g id="Group-9" transform="translate(349.910256, 410.000000)">
+                    <g id="Icon/Arrow/Up" transform="translate(954.089744, 28.000000)" filter="url(#filter-1)">
+                        <g id="Icon/Arrow/Left" transform="translate(12.000000, 6.500000) rotate(-270.000000) translate(-12.000000, -6.500000) translate(6.000000, -6.500000)" stroke="#181C1D" stroke-width="3">
+                            <polyline id="Line" points="11.5714286 0.52 0.428571429 12.7226667 11.5714286 25.48"></polyline>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

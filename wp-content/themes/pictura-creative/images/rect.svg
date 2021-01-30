@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Rectangle@2x</title>
+    <g id="1.0-HOME-PAGE" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.2-Mega-Menu-01" transform="translate(-568.000000, -68.000000)" fill="#FFFFFF">
+            <g id="Group" transform="translate(320.000000, 68.000000)">
+                <rect id="Rectangle" transform="translate(265.000000, 17.000000) rotate(45.000000) translate(-265.000000, -17.000000) " x="253" y="5" width="24" height="24"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,191 @@
+/* HOME DESIGNS changes */
+
+/* .nh-content.p-lr-20.container {
+    padding: 40px 0px 60px 0px;
+} */
+
+.project-list.container.grid {
+  padding-top: 50px !important;
+}
+
+.page-house-and-land .project-list.container.grid,
+.page-id-1417 .project-list.container.grid {
+  padding-top: 0px !important;
+}
+img.hometype-img[src*="splitlevel.svg"] {
+  height: 86%;
+}
+
+#filters-table,
+.desktop.hd-filter {
+  margin-bottom: 10px !important;
+  padding-bottom: 20px;
+}
+
+.singe-home_design .left-title > h1 {
+  margin-bottom: 10px !important;
+}
+
+.brochure-btn {
+  max-height: none;
+}
+
+.clear-btn {
+  padding-top: 15px;
+}
+
+ul.image-list li {
+  margin: 0 0 7px 0;
+  width: 100%;
+}
+
+.product-icon {
+  padding-left: 10px;
+}
+
+iframe {
+  border-width: 0px;
+}
+
+/* START For the 2 columns (on Home Designs) */
+@media (max-width: 500px) {
+  .product-desc > .flex.two-cols-div > div {
+    display: block;
+    max-width: 100%;
+    width: 100%;
+  }
+
+  .product-desc > .flex.two-cols-div > div:nth-child(2) > ul > li {
+    margin-top: 0px;
+  }
+}
+
+@media (min-width: 501px) {
+  .two-cols ul li {
+    padding: 0px 5px;
+  }
+
+  .product-desc > .flex.two-cols-div > div {
+    display: inline-block;
+    max-width: 50%;
+    width: 50%;
+  }
+}
+/* END For the 2 columns (on Home Designs) */
+
+/* START For the videos (on Home Designs) */
+@media (max-width: 767px) {
+  .related-vid iframe,
+  .related-vid {
+    display: block;
+    height: auto;
+    min-height: 350px;
+    /* width: 100%; */
+  }
+}
+
+@media (min-width: 668px) {
+  .related-vid {
+    display: inline-block;
+    width: 49%;
+  }
+  .related-vid iframe {
+    height: auto;
+    min-height: 340px;
+    width: 100%;
+  }
+}
+@media (min-width: 1268px) {
+  .related-vid {
+    display: inline-block;
+    width: 50%;
+  }
+	.related-vid:first-child{
+		padding-right: 20px;
+	}
+  .related-vid iframe {
+    height: auto;
+    min-height: 394px;
+    width: 100%;
+  }
+}
+/* END For the videos (on Home Designs) */
+
+@media (max-width: 685px) {
+  .product-gallery {
+    margin: auto;
+  }
+
+  .product-gallery .col-sm-12 {
+    /* overflow-x: scroll; */
+    width: 100%;
+  }
+
+  .product-gallery > .product-icon > .image-list li {
+    display: inline;
+  }
+
+  .product-gallery > .product-icon > .image-list li {
+    height: 300px;
+    margin-left: 5px;
+    max-width: 100%;
+    width: 100%;
+  }
+  .product-gallery > .product-icon > .image-list li:first-child {
+    margin-left: 0px;
+  }
+	.product-gallery {
+    padding-bottom: auto !important;
+}
+
+ul.image-list {
+    overflow: scroll;
+    display: flex;
+    flex-direction: row;
+}
+	ul.image-list li {
+   width: 100%;
+padding-bottom: 56.25%;
+position: relative;
+		min-width: 100%;
+}
+.image-list img {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
+
+  .floorplan-img #lightgallery:after {
+    top: 15px;
+  }
+}
+@media (min-width: 686px) and (max-width: 767px) {
+  .floorplan-img #lightgallery:after {
+    top: 15px;
+  }
+}
+@media (min-width: 768px) and (max-width: 1000px) {
+  #filters-tablet {
+    margin-bottom: 0px !important;
+  }
+
+  .floorplan-img #lightgallery:after {
+    top: 25px;
+  }
+}
+@media (min-width: 1001px) {
+  /* HOME DESIGNS - ASHBURY changes */
+  .tabs label {
+    padding: 18px 40px;
+  }
+
+/*   .floor-plan {
+    padding: 50px 20px 50px;
+  } */
+
+  .floorplan-img #lightgallery:after {
+    top: 15px;
+  }
+}

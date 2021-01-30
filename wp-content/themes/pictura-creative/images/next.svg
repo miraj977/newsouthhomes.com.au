@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="42px" viewBox="0 0 23 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Path</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Home-Page-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Pictura-Creative-Theme-001:-Home" transform="translate(-1618.000000, -874.000000)" stroke="#FFFFFF" stroke-width="2">
+            <g id="Carousel-Arrows-Group" transform="translate(1478.000000, 850.000000)">
+                <g id="Arrow-Right" transform="translate(152.000000, 45.000000) rotate(-180.000000) translate(-152.000000, -45.000000) translate(102.000000, 0.000000)">
+                    <polyline id="Path" points="60.5 25 40.5 45 60.5 65"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
